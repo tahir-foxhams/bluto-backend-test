@@ -1,0 +1,1 @@
+CREATE SEQUENCE IF NOT EXISTS support_tickets_ticket_number_seq START 10001;

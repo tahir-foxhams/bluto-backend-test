@@ -1,0 +1,1 @@
+CREATE SEQUENCE IF NOT EXISTS demo_requests_request_number_seq START 10001;
